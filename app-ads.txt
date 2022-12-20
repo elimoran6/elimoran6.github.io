@@ -1,0 +1,4 @@
+facebook.com, 424471606516418, DIRECT, c3e20eee3f780d68
+facebook.com, 871966133812883, DIRECT, c3e20eee3f780d68
+pangleglobal.com, 5004532, DIRECT
+vungle.com, 62065486111ad40014df3e77, DIRECT, c107d686becd2d77
